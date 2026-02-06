@@ -20,3 +20,15 @@ carpeta raíz del proyecto. Para previsualizar este sitio en local:
 
 > Nota: si usas otro puerto, reemplázalo en la URL.
 
+## Publicar con GitHub Pages
+Sí, puedes publicar este sitio directamente con GitHub Pages. Pasos rápidos:
+
+1. Sube estos archivos (`index.html`, `styles.css`, `script.js`) a un repositorio
+   de GitHub.
+2. En GitHub ve a **Settings → Pages**.
+3. En **Build and deployment**, selecciona **Deploy from a branch**.
+4. Elige la rama (por ejemplo `main`) y la carpeta raíz (`/`).
+5. Guarda los cambios y espera a que GitHub genere la URL pública.
+
+Cuando el despliegue termine, la página estará disponible en la URL de Pages
+que muestra GitHub.
